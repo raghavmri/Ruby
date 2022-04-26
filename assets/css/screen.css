@@ -28,3 +28,8 @@
 @import "vendor/pswp.css";
 @import "misc/kg.css";
 @import "misc/utilities.css";
+
+
+pre{
+    overflow: hidden !important;
+}
